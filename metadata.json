@@ -1,0 +1,5 @@
+{
+  "name": "Knowledge Graph Extractor",
+  "description": "Upload technical documents for product parts (e.g., PDFs, images) to automatically extract and visualize a detailed knowledge graph. The app generates entities, relationships, and provides Neo4j Cypher queries for database integration.",
+  "requestFramePermissions": []
+}
